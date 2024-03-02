@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "isoctl"
+    ],
+    "files.associations": {
+        "ctype.h": "c",
+        "stdlib.h": "c",
+        "stdio.h": "c"
+    }
+}
